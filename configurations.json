@@ -3,6 +3,10 @@
         {
             "model": "gpt-3.5-turbo-16k",
             "api_key": "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"
+        } ,
+        {
+            "model": "gpt-4",
+            "api_key": "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"
         } 
     ]
     
