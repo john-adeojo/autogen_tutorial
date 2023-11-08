@@ -2,11 +2,11 @@
     [
         {
             "model": "gpt-3.5-turbo-16k",
-            "api_key": "<ENTER YOUR APIKEY>"
+            "api_key": "<Enter Your API Key Here>"
         } ,
         {
             "model": "gpt-4-1106-preview",
-            "api_key": "<ENTER YOUR API KEY>"
+            "api_key": "<Enter Your API Key Here>"
         } 
     ]
     
